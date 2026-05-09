@@ -1,0 +1,8 @@
+.venv/
+*.pyc
+__pycache__/
+# Ignore the .env file if it exists
+.env
+# Ignore the .vscode directory if it exists
+.vscode/
+notes.md
